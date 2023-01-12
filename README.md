@@ -1,6 +1,8 @@
 # NavigationBarPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.19.
+This is a personal practice project for learning how to build a top navigation bar that can move from page to page by using HTML, CSS, TypeScript and Angular.
+The page navigation feature is built by Router class provided by Angular
 
 ## Development server
 
